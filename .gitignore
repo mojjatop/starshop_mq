@@ -3,3 +3,4 @@
 mvnw.cmd
 target/
 WebContent/META-INF/MANIFEST.MF
+.idea/

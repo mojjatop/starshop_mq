@@ -1,4 +1,4 @@
-package com.enliple.config;
+package com.mojja.config;
 
 import com.mongodb.MongoClient;
 import com.mongodb.MongoClientOptions;

@@ -1,7 +1,6 @@
-package com.enliple.service;
+package com.mojja.service;
 
-import com.enliple.listener.Listener;
-import com.enliple.vo.DumpData;
+import com.mojja.vo.DumpData;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

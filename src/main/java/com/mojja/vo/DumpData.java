@@ -1,4 +1,4 @@
-package com.enliple.vo;
+package com.mojja.vo;
 
 import java.util.HashMap;
 import java.util.Map;

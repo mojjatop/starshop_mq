@@ -1,4 +1,4 @@
-package com.enliple.listener;
+package com.mojja.listener;
 
 import java.io.IOException;
 import java.util.concurrent.CountDownLatch;
@@ -9,8 +9,8 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.annotation.KafkaListener;
 
-import com.enliple.service.ViewServiceImpl;
-import com.enliple.vo.DumpData;
+import com.mojja.service.ViewServiceImpl;
+import com.mojja.vo.DumpData;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 /**

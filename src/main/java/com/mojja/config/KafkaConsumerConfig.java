@@ -1,6 +1,6 @@
-package com.enliple.config;
+package com.mojja.config;
 
-import com.enliple.listener.Listener;
+import com.mojja.listener.Listener;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;
 import org.springframework.beans.factory.annotation.Value;
